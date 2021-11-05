@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 var number_aux = ' ';
@@ -35,4 +36,19 @@ function number_compare (number_aux, answer){
     if(number_aux > answer) alert("numero grande da porra")
     if(number_aux == answer) alert("acertou mizeravi")
     if(number_aux < answer) alert ("numerozinho pikenu")
+=======
+console.log('1')
+
+const number_compare = async() =>{
+    document.getElementById("number_user")
+            .addEventListener("focusout")
+    
+    
+    console.log('1')
+
+}
+
+function click_number_button(){
+    document.getElementById('number_user_button')
+>>>>>>> 2dfb6f0c33d7e5e7d6cc05eed4c914d79d1297e4
 }
