@@ -9,7 +9,7 @@ div{
     width: 100%;
 }
 
-.what-number{
+.what_number{
     text-align: center;
     color: #DB6300;
 }
@@ -25,7 +25,7 @@ div{
     width: 255px;
 }
 
-.user-entry{
+.user_entry{
     width: 100vw;
     height: 100px;
     display: flex;
@@ -36,7 +36,7 @@ div{
     
 }
 
-.button-user{
+.button_user{
     background-color: #DB6300;
     color: #fff;
     margin: 15px;
